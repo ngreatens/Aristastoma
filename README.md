@@ -1,0 +1,1 @@
+Files and scripts needed to generate figures included in the manuscript submitted to Mycologia as "Phylogenomic analysis supports the transfer of Coniothyrium glycines, a soybean pathogen and USDA Select Agent, to the genus Aristastoma"
